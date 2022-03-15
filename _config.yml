@@ -2,3 +2,11 @@ remote_theme: pmarsceill/just-the-docs
 color_scheme: dark
 markdown: GFM
 title: "Minecraft Hack Clients"
+
+search_enabled: true
+search.heading_level: 3
+search.previews: 4
+
+aux_links:
+  "Star on GitHub":
+    - "https://github.com/Minecraft-Anarchy/minecraft-hack-clients"
